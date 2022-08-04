@@ -8,7 +8,6 @@
   , "halogen"
   , "maybe"
   , "prelude"
-  , "psci-support"
   , "jest"
   ]
 , packages = ./packages.dhall
